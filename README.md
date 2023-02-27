@@ -1,6 +1,6 @@
-# ViretTool alpha version
+# ViretTool 2021
 
-- no speech2text
+This is a "version for record" of VIRET tool compeeting at VBS 2021 video browser showdown.
 
 Launch Release/ViretTool.exe
 
