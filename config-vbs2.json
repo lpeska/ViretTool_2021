@@ -1,0 +1,14 @@
+{
+  "DresServer": "https://vbs2.itec.aau.at:9443",
+  "SessionId": "node01hsgtk8im06pvm8tgei8kbjnu39417",
+  "VideoSegmentLength": 10,
+  "SegmentsInResultDisplay": 200,
+  "FramesInSimilarWindow": 1000,
+  "DetailWindowColumns": 9,
+  "DetailWindowRows": 8,
+  "PresentationFilterMaxFromVideo": 3,
+  "PresentationFilterMaxFromShot": 1,
+  "ResultsToLog": 10000,
+  "HighlightFrameGreenAt": 1.7,
+  "HighlightFrameRedAt": 1.0
+}
